@@ -26,7 +26,7 @@ static
      Thread.sleep(2000);
      driver.get("https://www.actitime.com/");
      //create refrence of takesscreenshot
-     // Hello
+     // Hello hiii
      TakesScreenshot t=(TakesScreenshot)driver;
   
   //to get screenshot
